@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="origin" fetch="." />
+
+  <default revision="3ed" remote="origin" sync-j="1" />
+
+  <project path="AIDLDemo" name="AIDLDemo" />
+  <project path="AndroidUIDemo" name="AndroidUIDemo" />
+  <project path="AndroidViewDemo" name="AndroidViewDemo" />
+  <project path="AsyncTaskDemo" name="AsyncTaskDemo" />
+  <project path="AudioPlayer" name="AudioPlayer" />
+  <project path="ClientDemo" name="ClientDemo" />
+  <project path="ClientDemoServer" name="ClientDemoServer" />
+  <project path="ContactViewer" name="ContactViewer" />
+  <project path="FillListTask" name="FillListTask" />
+  <project path="FinchChat" name="FinchChat" />
+  <project path="FinchFramework" name="FinchFramework" />
+  <project path="FinchLifecycle" name="FinchLifecycle" />
+  <project path="FinchLifecycleBackport" name="FinchLifecycleBackport" />
+  <project path="FinchVideo" name="FinchVideo" />
+  <project path="JSerializable" name="JSerializable" />
+  <project path="LifecycleDemos" name="LifecycleDemos" />
+  <project path="NDKDemo" name="NDKDemo" />
+  <project path="SearchDemo" name="SearchDemo" />
+  <project path="SensorDemos" name="SensorDemos" />
+  <project path="SharedListTask" name="SharedListTask" />
+  <project path="SimpleFragment" name="SimpleFragment" />
+  <project path="UIFramework" name="UIFramework" />
+</manifest>
